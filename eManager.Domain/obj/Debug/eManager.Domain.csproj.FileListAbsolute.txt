@@ -1,0 +1,4 @@
+C:\Work\Lab\MVC\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+C:\Work\Lab\MVC\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+C:\Work\Lab\MVC\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+C:\Work\Lab\MVC\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
