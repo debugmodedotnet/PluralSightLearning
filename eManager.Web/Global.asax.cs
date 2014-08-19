@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eManager.Web.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -23,6 +24,9 @@ namespace eManager.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
+
+            var controller = new CustomControllerFactory();
+            ControllerBuilder.Current.SetControllerFactory(controller);
         }
     }
 }

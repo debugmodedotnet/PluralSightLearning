@@ -12,7 +12,12 @@ namespace eManager.Web.Controllers
     public class EmployeeController : Controller
     {
 
-        IDepartmentDataSource _db = new DepartmentDb();
+        IDepartmentDataSource _db;
+
+        public EmployeeController(IDepartmentDataSource db)
+        {
+            _db = db; 
+        }
 
         [HttpGet]
         public ActionResult Add(int departmentId)

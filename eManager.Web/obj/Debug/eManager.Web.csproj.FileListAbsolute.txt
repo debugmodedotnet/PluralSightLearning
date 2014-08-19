@@ -10,6 +10,7 @@ C:\Work\Lab\MVC\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\eManager.Domain.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.dll
+C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.SqlServer.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\Microsoft.Data.Edm.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\Microsoft.Data.OData.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\Microsoft.Web.Infrastructure.dll
@@ -33,6 +34,7 @@ C:\Work\Lab\MVC\eManager\eManager.Web\bin\WebMatrix.Data.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\WebMatrix.WebData.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\eManager.Domain.pdb
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.xml
+C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.SqlServer.xml
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\Newtonsoft.Json.xml
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\System.Net.Http.Formatting.xml
 C:\Work\Lab\MVC\eManager\eManager.Web\bin\System.Web.Helpers.xml
@@ -86,5 +88,3 @@ C:\Work\Lab\MVC\eManager\eManager.Web\bin\zh-Hant\System.Spatial.resources.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\obj\Debug\eManager.Web.csprojResolveAssemblyReference.cache
 C:\Work\Lab\MVC\eManager\eManager.Web\obj\Debug\eManager.Web.dll
 C:\Work\Lab\MVC\eManager\eManager.Web\obj\Debug\eManager.Web.pdb
-C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.SqlServer.dll
-C:\Work\Lab\MVC\eManager\eManager.Web\bin\EntityFramework.SqlServer.xml
